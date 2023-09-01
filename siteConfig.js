@@ -16,7 +16,7 @@ module.exports = {
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
-    visible: true,
+    visible: false,
     title: "hanemala",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
