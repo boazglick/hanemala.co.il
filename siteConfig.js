@@ -66,6 +66,7 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
+    visible: false,
     title: "צור קשר איתנו",
     successMessage: "נשיב בהקדם על שאלותיך.",
   },
