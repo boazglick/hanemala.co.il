@@ -66,8 +66,8 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
-    successMessage: "We’ll get in touch with you soon.",
+    title: "צור קשר איתנו",
+    successMessage: "נשיב בהקדם על שאלותיך.",
   },
   metadata: {
     title: "hanemala",
